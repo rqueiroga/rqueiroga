@@ -24,7 +24,7 @@ Sou um estudante de Sistemas de Informação construindo minha carreira em **Eng
 ## 🔗 Conecte-se comigo
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/rafael-queiroga-85861034a/" target="_blank">
+  <a href="[https://www.linkedin.com/in/rafaelqueiroga-si/]" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
