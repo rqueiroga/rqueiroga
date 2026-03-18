@@ -25,9 +25,8 @@ No dia a dia, sou responsavel por transformar processos manuais em fluxos autom�
 
 ## 📌 Projetos em Destaque
 
-* ✅ [**Task API (Flask + SQL)**](https://github.com/rqueiroga/task-api-flask): Uma API REST completa que desenvolvi para gerenciamento de tarefas, com persistência real em banco de dados.
-* 🚧 **Consumo de APIs Externas:** Projeto focado em integração e tratamento de dados de fontes externas.
-* 🤖 **Automações em Python:** Scripts voltados para a resolução de problemas de rotina e RPA.
+* ✅ [**Task API (Flask + SQL)**](https://github.com/rqueiroga/task-api-flask): Uma API REST completa que desenvolvi para gerenciamento de tarefas, com utilização real de banco de dados.
+* 🤖 [**RPA Task Integration**](https://github.com/rqueiroga/rpa-task-integration): Robô em Python que automatiza a alimentação da Task API, simulando o processamento de grandes volumes de dados para a mesma.
 
 ---
 
