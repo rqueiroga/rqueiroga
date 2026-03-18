@@ -6,7 +6,7 @@ No dia a dia, sou responsavel por transformar processos manuais em fluxos autom�
 
 ---
 
-## 💼 Experiência Atual
+## 💼 Experiência Atual:
 
 **Rueda & Rueda Advogados | Estagiário de RPA**
 * Desenvolvimento e manutenção de automações utilizando **Python** e Power Automate.
@@ -15,7 +15,7 @@ No dia a dia, sou responsavel por transformar processos manuais em fluxos autom�
 
 ---
 
-## 🛠️ Conhecimentos Técnicos
+## Conhecimentos Técnicos:
 
 * **Linguagens e Dados:** Python, PostgreSQL, SQLite e MySQL.
 * **Backend e Integração:** Flask, Postman e Selenium (Web Scraping/Automação).
@@ -23,14 +23,14 @@ No dia a dia, sou responsavel por transformar processos manuais em fluxos autom�
 
 ---
 
-## 📌 Projetos em Destaque
+## Projetos em Destaque:
 
 * ✅ [**Task API (Flask + SQL)**](https://github.com/rqueiroga/task-api-flask): Uma API REST completa que desenvolvi para gerenciamento de tarefas, com utilização real de banco de dados.
 * 🤖 [**RPA Task Integration**](https://github.com/rqueiroga/rpa-task-integration): Robô em Python que automatiza a alimentação da Task API, simulando o processamento de grandes volumes de dados para a mesma.
 
 ---
 
-## 📫 Contato
+## 📫 Contato:
 
 Caso queira trocar uma ideia sobre tecnologia, Python ou automação, sinta-se à vontade para me chamar:
 
@@ -39,7 +39,7 @@ Caso queira trocar uma ideia sobre tecnologia, Python ou automação, sinta-se �
 
 ---
 
-## 📊 Estatísticas
+## 📊 Estatísticas:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rqueiroga&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
