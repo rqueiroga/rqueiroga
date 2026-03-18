@@ -1,78 +1,91 @@
-# Olá, eu sou o Rafael Queiroga 👋
-
-<br>
+<h1 align="center">Olá, eu sou o Rafael Queiroga 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/rqueiroga">
-    <img src="https://github-readme-stats.vercel.app/api?username=rqueiroga&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&locale=pt-br" alt="Estatísticas do GitHub de Rafael Queiroga"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rqueiroga&layout=compact&langs_count=7&theme=dracula&locale=pt-br" alt="Linguagens mais usadas por Rafael Queiroga"/>
-  </a>
+  💻 Desenvolvedor Backend em formação | Python • APIs • SQL • RPA
 </p>
 
-<br>
+---
 
-## 👨‍💻 Sobre Mim
+## 🚀 Sobre mim
 
-Sou um estudante de Sistemas de Informação construindo minha carreira em **Engenharia de Dados**. Meu objetivo é projetar e implementar a infraestrutura necessária para transformar dados brutos em insights de negócio valiosos.
+🎓 Estudante de Sistemas de Informação (3º período)  
+💼 Estagiário em Desenvolvimento de Automações (RPA)  
+📚 Focado em Backend com Python, APIs REST e SQL  
+📈 Buscando evoluir para atuar como Engenheiro de Software / Dados 
 
-- 🌱 Atualmente estou aprofundando meus conhecimentos em **Python**, **SQL** e no ecossistema de dados na nuvem.
-- 🎯 Focado em aprender sobre arquitetura de dados, pipelines de ETL e ferramentas de Big Data.
-- 📫 Buscando ativamente por uma oportunidade de estágio para aplicar meu conhecimento e aprender com profissionais da área.
+---
 
-<br>
+## 💼 Experiência
 
-## 🔗 Conecte-se comigo
+**Desenvolvedor de Automações (RPA) - Estágio**
 
-<p align="left">
-  <a href="[https://www.linkedin.com/in/rafaelqueiroga-si/]" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="mailto:queirogarafael9@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
+- Desenvolvimento e manutenção de automações com Python e Power Automate  
+- Monitoramento e correção de falhas em processos automatizados  
+- Otimização de rotinas internas  
 
-<br>
+---
 
 ## 🛠️ Tecnologias e Ferramentas
 
-Estou construindo minha base nas seguintes tecnologias:
+### 💻 Linguagens e Banco de Dados
+<p>
+  <img src="https://skillicons.dev/icons?i=python,postgresql" />
+</p>
 
-<div style="display: inline_block"><br>
-  <h4><b>Linguagens e Bancos de Dados</b></h4>
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain-wordmark.svg">
-</div>
+### ⚙️ Backend e APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=flask" />
+</p>
 
-<div style="display: inline_block"><br>
-  <h4><b>Cloud & Ferramentas de Dados</b></h4>
-  <img align="center" alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-  </div>
+### 🔧 Automação
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
 
-<div style="display: inline_block"><br>
-  <h4><b>Desenvolvimento</b></h4>
-  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
-  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
-</div>
+### ☁️ Ferramentas
+<p>
+  <img src="https://skillicons.dev/icons?i=git,docker" />
+</p>
 
-<br>
+---
 
-## 🚀 Meus Principais Projetos (em breve)
+## 📌 Projetos em destaque
 
-Aqui vou listar os projetos que demonstram minha jornada em Engenharia de Dados. Fique de olho!
+🚧 Em desenvolvimento:
 
-<!--
-**rqueiroga/rqueiroga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔹 API de gerenciamento de tarefas (Flask + SQL)
+- 🔹 API com consumo de dados externos
+- 🔹 Automação de processos com Python (RPA)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Estatísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 📫 Conecte-se comigo
+
+<p>
+  <a href="https://www.linkedin.com/in/rafaelqueiroga-si/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+
+  <a href="mailto:SEUEMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
+
+---
+
+## ⚡ Diferencial
+
+✔️ Experiência real com automações (RPA)  
+✔️ Conhecimento prático em Python  
+✔️ Foco em APIs e integração de sistemas  
+
+---
