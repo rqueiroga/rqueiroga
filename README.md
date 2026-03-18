@@ -8,7 +8,7 @@ No dia a dia, sou responsavel por transformar processos manuais em fluxos autom�
 
 ## 💼 Experiência Atual:
 
-**Rueda & Rueda Advogados | Estagiário de RPA**
+**Rueda & Rueda Advogados | Estagiário de Desenvolvimento RPA**
 * Desenvolvimento e manutenção de automações utilizando **Python** e Power Automate.
 * Monitoramento de fluxos e otimização de rotinas para equipes jurídicas e administrativas.
 * Integração de processos automatizados com APIs e bancos de dados.
