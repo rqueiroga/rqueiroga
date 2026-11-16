@@ -1,47 +1,90 @@
-# Bem vindo ao meu perfil, eu sou Rafael Queiroga 👋
+# Hi, I'm Rafael Queiroga 👋
 
-Sou estudante de Sistemas de Informação na UNINASSAU (3º período) e atualmente trabalho como estagiário de RPA na Rueda & Rueda Advogados. Meu foco está no desenvolvimento Backend com Python, construção de APIs e manipulação de bancos de dados SQL.
+**Software Engineer | Python Backend | AI Applications | FastAPI**
 
-No dia a dia, sou responsavel por transformar processos manuais em fluxos automáticos, mas busco constantemente evoluir meus conhecimentos para atuar como Engenheiro de Software ou de Dados.
+I'm a Software Engineer focused on Python development, backend systems, REST APIs, and process automation, based in Brazil.
 
----
+My professional background includes developing and maintaining automation solutions, integrating systems, processing data, and improving operational workflows using Python and automation technologies.
 
-## 💼 Experiência Atual:
+I'm currently expanding my expertise in software engineering, backend architecture, cloud technologies, and AI-powered applications, combining practical development experience with continuous learning.
 
-**Rueda & Rueda Advogados | Estagiário de Desenvolvimento RPA**
-* Desenvolvimento e manutenção de automações utilizando **Python** e Power Automate.
-* Monitoramento de fluxos e otimização de rotinas para equipes jurídicas e administrativas.
-* Integração de processos automatizados com APIs e bancos de dados.
+🎯 **Open to Software Engineering and Python Backend opportunities in Brazil and globally (Remote).**
 
 ---
 
-## Conhecimentos Técnicos:
+### 💻 Technical Skills
 
-* **Linguagens e Dados:** Python, PostgreSQL, SQLite e MySQL.
-* **Backend e Integração:** Flask, Postman e Selenium (Web Scraping/Automação).
-* **Workflow:** Git, GitHub, Docker e VS Code.
+**Languages & Databases**
+- Python, SQL
+- PostgreSQL, SQLite, MySQL
+
+**Backend & Integration**
+- REST APIs, FastAPI, Flask
+- System Integration, Data Processing
+- Object-Oriented Programming
+
+**Automation & Testing**
+- Selenium, Playwright, Power Automate
+- Automated Testing, Debugging, Exception Handling
+- Logging and Workflow Automation
+
+**Tools & Development**
+- Git, GitHub, Docker
+- VS Code, Postman
+- GitHub Actions
+
+**Currently Exploring**
+- Cloud Computing (AWS)
+- AI Applications, LLMs and AI Agents
+- Software Architecture and CI/CD
 
 ---
 
-## Projetos em Destaque:
+### 🚀 Featured Projects
 
-* ✅ [**Task API (Flask + SQL)**](https://github.com/rqueiroga/task-api-flask): Uma API REST completa que desenvolvi para gerenciamento de tarefas, com utilização real de banco de dados.
-* 🤖 [**RPA Task Integration**](https://github.com/rqueiroga/rpa-task-integration): Robô em Python que automatiza a alimentação da Task API, simulando o processamento de grandes volumes de dados para a mesma.
+**[MODU Control](https://github.com/rqueiroga/modu-control)** — *Private Repository*
+
+A platform for managing and supervising AI agents, with a Python backend, API integrations, PostgreSQL, authentication architecture, and automated testing.
+
+`Python` `FastAPI` `PostgreSQL` `Docker` `Next.js`
+
+**[Invoice Processing RPA](https://github.com/rqueiroga/invoice-processing-rpa)**
+
+An automation project for invoice processing, combining Python, browser automation, Excel processing, and PDF handling.
+
+`Python` `Playwright` `Excel` `PDF Automation`
+
+**[Task API](https://github.com/rqueiroga/task-api-flask)**
+
+A REST API for task management, built with Flask and SQLAlchemy, featuring database integration and CRUD operations.
+
+`Python` `Flask` `SQLAlchemy` `REST API`
+
+**[RPA Task Integration](https://github.com/rqueiroga/rpa-task-integration)**
+
+A Python automation solution that integrates data processing workflows with a task management API.
+
+`Python` `REST API` `Automation`
 
 ---
 
-## 📫 Contato:
+### 📚 Professional Development
 
-Caso queira trocar uma ideia sobre tecnologia, Python ou automação, sinta-se à vontade para me chamar:
+Currently pursuing a degree in **Systems Analysis and Development**, while following a structured learning roadmap focused on:
 
-* **LinkedIn:** [rafaelqueiroga-si](https://www.linkedin.com/in/rafaelqueiroga-si/)
-* **Email:** rafaelqueiroga.contato@gmail.com
+- Software Engineering and Backend Development
+- APIs, Databases and Software Architecture
+- Automated Testing and DevOps
+- Cloud Computing and AWS
+- Applied AI, LLM Integration and AI Agents
 
 ---
 
-## 📊 Estatísticas:
+### 🌎 Let's Connect
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rqueiroga&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rqueiroga&layout=compact&theme=radical" />
-</p>
+- **LinkedIn:** [rafaelqueiroga-si](https://www.linkedin.com/in/rafaelqueiroga-si/)
+- **Email:** [rafaelqueiroga.contato@gmail.com](mailto:rafaelqueiroga.contato@gmail.com)
+- **Location:** Recife Metropolitan Area, Brazil
+- **English:** B2 — Upper Intermediate
+
+*Building reliable software, automating complex workflows, and exploring intelligent applications.*
