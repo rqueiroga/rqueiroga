@@ -83,7 +83,7 @@ Currently pursuing a degree in **Systems Analysis and Development**, while follo
 ### 🌎 Let's Connect
 
 - **LinkedIn:** [rafaelqueiroga-si](https://www.linkedin.com/in/rafaelqueiroga-si/)
-- **Email:** [rafaelqueiroga.contato@gmail.com](mailto:rafaelqueiroga.contato@gmail.com)
+- **Email:** [rafaelqueiroga.dev@gmail.com](mailto:rafaelqueiroga.contato@gmail.com)
 - **Location:** Recife Metropolitan Area, Brazil
 - **English:** B2 — Upper Intermediate
 
